@@ -1,4 +1,5 @@
 Portfólio Python - Desafios LeetCode
+
 Bem-vindo ao meu portfólio de Python! Este repositório apresenta minhas soluções para diversos desafios algorítmicos da plataforma LeetCode. Cada solução é comentada em detalhes, tanto em inglês quanto em português, tornando o conteúdo acessível para uma audiência mais ampla.
 
 Visão Geral
